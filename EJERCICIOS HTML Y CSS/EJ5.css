@@ -1,0 +1,9 @@
+.alinear{
+    background-color: rgb(245, 245, 245);
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: repeat(3, 300px);
+    grid-template-rows: repeat(3, 300px);
+}

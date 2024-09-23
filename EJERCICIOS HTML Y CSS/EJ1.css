@@ -1,0 +1,7 @@
+.left{
+    display: flex;
+    justify-content: left;
+    max-width: 100%;
+    background-color: black;
+    color: aliceblue;
+}

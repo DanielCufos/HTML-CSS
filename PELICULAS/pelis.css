@@ -1,0 +1,26 @@
+
+.alineamiento{
+    display: center;
+    text-align: center;
+    max-width: 100%;
+    background-image: url(imagenes/fondo.webp);
+    background-color: black;
+    color: white;
+}
+
+.left{
+    display: flex;
+    justify-content: left;
+    max-width: 50%;
+    background-color: gray;
+}
+
+.imagen{
+    display: flex;
+    justify-content: initial;
+}
+
+.imagen2{
+    width: 250px;
+}
+
